@@ -26,6 +26,6 @@ Tenho 20 anos. Em 2020 tive o primeiro contato com a programação aprendendo o 
   <a href = "mailto:gisela-mariano@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-00AFF0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gisela-mariano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/rafaballerini/gisela-mariano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gisela-mariano/gisela-mariano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
