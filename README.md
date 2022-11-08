@@ -19,7 +19,7 @@
 ##
 
 ## ✨ Sobre
-Tenho 20 anos. Em 2020 tive o primeiro contato com a programação aprendendo o básico por conta própria, e foi ali onde percebi que queria me aprofundar e aprender de fato, então, em Novembro de 2021 comecei um curso de programção web Full Stack na Kenzie Academy Brasil, onde aprendi praticamente tudo que sei hoje e me ensinou a caminhar por conta própria!
+Tenho 20 anos. Em 2020 tive o primeiro contato com a programação aprendendo o básico por conta própria, foi ali onde percebi que queria me aprofundar e aprender de fato, então, em Novembro de 2021 comecei um curso de Programção Web Full Stack na Kenzie Academy Brasil, onde aprendi praticamente tudo que sei hoje e também me ensinou a caminhar por conta própria!
 
 ## ✉️ Contatos
 <div> 
